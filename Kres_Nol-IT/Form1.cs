@@ -154,6 +154,7 @@ namespace Kres_Nol_IT
     {
       button1.Enabled = false;
       button1.Text = "x";
+      button1.BackColor = Color.Green;
       GameStart();
     }
 
@@ -161,6 +162,7 @@ namespace Kres_Nol_IT
     {
       button2.Enabled = false;
       button2.Text = "x";
+      button2.BackColor = Color.Green;
       GameStart();
     }
 
@@ -168,6 +170,7 @@ namespace Kres_Nol_IT
     {
       button3.Enabled = false;
       button3.Text = "x";
+      button3.BackColor = Color.Green;
       GameStart();
     }
 
@@ -175,6 +178,7 @@ namespace Kres_Nol_IT
     {
       button4.Enabled = false;
       button4.Text = "x";
+      button4.BackColor = Color.Green;
       GameStart();
     }
   }
