@@ -60,6 +60,11 @@ namespace Kres_Nol_IT
       {
         label1.Text = "Ничья!";
 
+        button1.Hide();
+        button2.Hide();
+        button3.Hide();
+        button4.Hide();
+
         return;
       }
 
